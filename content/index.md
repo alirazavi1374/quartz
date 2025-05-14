@@ -74,7 +74,7 @@ This is my cozy corner on the internet. A place to share thoughts, learnings, an
 
 ## About This Blog 📝
 
-In this blog, I plan to delve into the following topics:
+In this blog, I plan to delve into the following topics: A
 
 *   **[Your First Main Topic]:** For example: "Exploring the World of *Front-End Development* 💻 using `React` and `TypeScript`."
     *   *Explanation:* Here, I'll dive deep into various aspects of front-end, from basic HTML/CSS to advanced JavaScript frameworks. We'll look at ~~old techniques~~ **modern best practices**.
